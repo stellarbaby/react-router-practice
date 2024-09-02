@@ -7,10 +7,7 @@ const Sidebar = () => {
         <h2 className='text-4xl text-blue-200 mt-4'>Sidebar</h2>
         <Link to='/dashboard'>Dashboard</Link>
         <Link to='product'>Products</Link>
-        <Link to='orders'>Orders</Link>
-
-        
-        
+        <Link to='orders'>Orders</Link> 
     </div>
 
   )
